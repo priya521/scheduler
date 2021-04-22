@@ -1,5 +1,12 @@
 # Interview Scheduler
 
+
+!["screenshot for Scheduler"](https://github.com/priya521/scheduler/blob/master/screenshots/Scheduler.png)
+
+!["screenshot for Save appointment"](https://github.com/priya521/scheduler/blob/master/screenshots/save.png)
+
+!["screenshot for Delete Appointment"](https://github.com/priya521/scheduler/blob/master/screenshots/DeleteAppointment.png)
+
 ## Setup
 
 Install dependencies with `npm install`.
@@ -8,12 +15,6 @@ Install dependencies with `npm install`.
 
 ```sh
 npm start
-```
-
-## Running Jest Test Framework
-
-```sh
-npm test
 ```
 
 ## Running Storybook Visual Testbed
